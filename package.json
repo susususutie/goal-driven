@@ -1,0 +1,21 @@
+{
+  "name": "goal-driven",
+  "version": "0.1.0",
+  "description": "Goal-Driven 多智能体系统，用于持续解决具有严格成功标准的复杂问题（300+ 小时投入）",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "multi-agent",
+    "goal-driven",
+    "skill",
+    "agent-skills"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutie/goal-driven.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sutie/goal-driven/issues"
+  },
+  "homepage": "https://github.com/sutie/goal-driven#readme"
+}
