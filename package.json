@@ -1,6 +1,6 @@
 {
   "name": "goal-driven",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Goal-Driven 多智能体系统，用于持续解决具有严格成功标准的复杂问题（300+ 小时投入）",
   "license": "MIT",
   "keywords": [
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/susususutie/goal-driven/issues"
   },
-  "homepage": "https://github.com/susususutie/goal-driven#readme"
+  "homepage": "https://github.com/susususutie/goal-driven#readme",
+  "files": [
+    "README.md",
+    "skills/"
+  ]
 }
